@@ -1,0 +1,23 @@
+﻿# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio cache
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+
+# DotNet artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Entity Framework migrations history
+Migrations/
