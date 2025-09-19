@@ -8,6 +8,7 @@ REST API на .NET 8 з використанням Entity Framework Core та JW
 - Entity Framework Core - ORM для роботи з БД PostgreSQL
 - BCrypt.Net - для хешування паролів
 - JWT - автентифікація та авторизація через JWT токени
+- Використано Dependency Injection для підключення сервісів через інтерфейси
 
 ## Алгоритм встановлення
 
