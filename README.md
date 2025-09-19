@@ -16,7 +16,7 @@ REST API на .NET 8 з використанням Entity Framework Core та JW
  
 2) Налаштувати базу даних PostgreSQL:
 
-Створіть БД **TestTaskDB** та оновіть рядок підключення в appsettings.json:
+Створіть БД **TestTaskDB** та налаштуйте, використовуючи дані вашої БД рядок підключення в appsettings.json:
 ```bash
 "ConnectionStrings": {
   "DefaultConnection": "Host=localhost;Port=5432;Database=TestTaskDB;Username=postgres;Password=YOUR_PASSWORD"
